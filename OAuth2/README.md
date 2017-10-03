@@ -2,10 +2,10 @@
 
 This app is mainly used to show logic how to implement OAuth 2 in Ruby on Rails.
 
-* Ruby version
+* Ruby version:<br>
 The sample is tested on Ruby 2.4.2
 
-* System dependencies
+* System dependencies:<br>
 The rails version is 5.1.4
 
 * Configuration and run
