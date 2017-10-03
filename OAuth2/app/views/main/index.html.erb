@@ -1,3 +1,12 @@
 
+<h3>OAuth 2 Ruby Sample</h3>
+<div>1.Package the whole folder to your server, if you are running locally, your can use ngrok: https://ngrok.com/</div> </br>
+<div>2.Update the config file located at Rails.root/config/config.yml with your Client ID, Client Secret, host uri and redirect_to URI</div> </br>
+<div>3.Go to Developer.intuit.com, in your App, Add your Redirect_uri</div> </br>
+<div>Note: the logic is located at app/controllers/token_controller.rb</div>
 
- <%= link_to(image_tag("/C2QB_white_btn_med_default.png"), params[:url]) %>
+<div>Click the Below button to start the flow:</div><br>
+<%= link_to(image_tag("/C2QB_white_btn_med_default.png"), params[:url]) %>
+<br><br>
+<div>Remember to update your Redirect URIs in your app:</div>
+<%= link_to(image_tag("/app_redirect.png")) %>

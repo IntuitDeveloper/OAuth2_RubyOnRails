@@ -5,9 +5,10 @@ Constant:
   baseURL: https://appcenter.intuit.com/connect/oauth2
   tokenURL: https://oauth.platform.intuit.com/oauth2/v1/tokens/bearer
   scope: com.intuit.quickbooks.accounting
+  resfresh_grant_type: refresh_token
   response_type: code
   grant_type: authorization_code
 Settings:
-  oauth_start_uri: https://4a9fe3eb.ngrok.io/token/
+  host_uri: https://4a9fe3eb.ngrok.io/
   redirect_uri: https://4a9fe3eb.ngrok.io/token/new
   state: randomState
