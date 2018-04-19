@@ -1,3 +1,5 @@
+[![Sample Banner](views/Sample.png)][ss1]
+
 # README
 
 This app is mainly used to show logic how to implement OAuth 2 in Ruby on Rails.
@@ -15,3 +17,5 @@ The rails version is 5.1.4
 2.Put the whole directory to your server, and run "rails server" <br>
 3.If you are using localhost, you can download ngrok at:https://ngrok.com/ and run "ngrok http 3000" (3000 is your port number)<br>
 4. open a browser and go to the rail server host.
+
+[ss1]: https://help.developer.intuit.com/s/samplefeedback?cid=9010&repoName=OAuth2_RubyOnRails
