@@ -1,4 +1,5 @@
-[![Sample Banner](views/Sample.png)][ss1]
+[![Rate your Sample](views/Ratesample.png)][ss1][![Yes](views/Thumbup.png)][ss2][![No](views/Thumbdown.png)][ss3]
+
 
 # README
 
@@ -18,4 +19,6 @@ The rails version is 5.1.4
 3.If you are using localhost, you can download ngrok at:https://ngrok.com/ and run "ngrok http 3000" (3000 is your port number)<br>
 4. open a browser and go to the rail server host.
 
-[ss1]: https://help.developer.intuit.com/s/samplefeedback?cid=9010&repoName=OAuth2_RubyOnRails
+[ss1]: #
+[ss2]: https://customersurveys.intuit.com/jfe/form/SV_9LWgJBcyy3NAwHc?check=Yes&checkpoint=OAuth2_RubyOnRails&pageUrl=github
+[ss3]: https://customersurveys.intuit.com/jfe/form/SV_9LWgJBcyy3NAwHc?check=No&checkpoint=OAuth2_RubyOnRails&pageUrl=github
